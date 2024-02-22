@@ -1,2 +1,3 @@
 # TemplateGRID
-This is template using html and css here i use grid and flex 
+This is a template using HTML and css here I use grid and flex 
+https://chulbul7061.github.io/TemplateGRID/
